@@ -1,2 +1,6 @@
-xhofe/alist
+xhofe/alist:latest
+jellyfin/jellyfin:latest
+helloz/onenav:latest
+6053537/portainer-ce:latest
+chishin/nginx-proxy-manager-zh:latest
 
