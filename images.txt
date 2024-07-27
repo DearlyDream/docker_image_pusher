@@ -4,6 +4,4 @@ helloz/onenav:latest
 6053537/portainer-ce:latest
 chishin/nginx-proxy-manager-zh:latest
 whyour/qinglong:latest
-ghcr.io/parkervcp/games:source
 wolveix/satisfactory-server
-dezhao/lanraragi_cn
