@@ -5,3 +5,4 @@ helloz/onenav:latest
 chishin/nginx-proxy-manager-zh:latest
 whyour/qinglong:latest
 wolveix/satisfactory-server
+idootop/mi-gpt:latest
