@@ -7,3 +7,4 @@ whyour/qinglong:latest
 wolveix/satisfactory-server
 idootop/mi-gpt:latest
 hsuyelin/nas-tools
+linuxserver/transmission
