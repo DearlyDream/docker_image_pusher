@@ -9,3 +9,4 @@ idootop/mi-gpt:latest
 hsuyelin/nas-tools
 linuxserver/transmission
 lscr.io/linuxserver/qbittorrent:latest
+oldiy/transmission-twc:latest
